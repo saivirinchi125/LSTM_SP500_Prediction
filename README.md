@@ -1,2 +1,1 @@
 # Pytorchtut
-Practicing Pytorch 
